@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "Content 3",
+      "body": "Coba content 3"
+    },
+    {
+      "id": 1627028574502,
+      "title": "React JS API with JSON",
+      "body": "Training Inixindo Bandung",
+      "userID": 1
+    },
+    {
+      "id": 1627872905393,
+      "title": "React Router Dom",
+      "body": "Belajar menggunakan react router dom di react js",
+      "userID": 1
+    },
+    {
+      "id": 1627969033487,
+      "title": "Intoduction to React Js for Building user Interface",
+      "body": "Cara membuat website dengan react js ",
+      "userID": 1
+    }
+  ]
+}
