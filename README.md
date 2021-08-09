@@ -11,4 +11,4 @@ Materi mencangkup Dasar React Js, Calling API with Json Server, React Redux/Cont
 
 ### `json-server --watch db.json --port 3004`
 
-Server running in port 3004 : http://localhost:3004/blog
+Server running in port 3004 : http://localhost:3004/posts
